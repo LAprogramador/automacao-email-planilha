@@ -1,4 +1,4 @@
-# automacao-email-planilha
+# Descrição-programador
 🎯 Em transição de carreira para a área tech, com foco total em Python para automação, desenvolvimento back-end e web scraping.
 
 💡 Atualmente estudando diariamente e desenvolvendo projetos práticos que resolvem problemas reais — de APIs a fluxos automatizados com dados.
