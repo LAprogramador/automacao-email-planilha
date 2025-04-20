@@ -1,0 +1,11 @@
+# 📊 Automação: Envio de Planilhas por E-mail
+
+Este projeto automatiza o processo de leitura de uma planilha Excel e o envio de um e-mail com informações resumidas. Ideal para relatórios administrativos e rotinas repetitivas que exigem agilidade e precisão.
+
+---
+
+## ▶️ Como rodar o projeto
+
+1. **Clone o repositório**
+```bash
+git clone https://github.com/seu-usuario/automacao-email-planilha.git
