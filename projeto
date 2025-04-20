@@ -8,4 +8,5 @@ Este projeto automatiza o processo de leitura de uma planilha Excel e o envio de
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/automacao-email-planilha.git
+git clone https://github.com/LAprogramador/automacao-email-planilha.git
+
